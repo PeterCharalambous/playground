@@ -1,11 +1,7 @@
 <?php
-echo 'iunno something i guess';
+include 'header.php';
 ?>
-
-<head>
-	<title>Peters Downtime</title>
-</head>
-
-<body>
-	<h1>Welcome to my page lolz</h1>
-</body>
+	<h1>Work in progress</h1>
+<?php
+include 'footer.php';
+?>
