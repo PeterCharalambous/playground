@@ -1,2 +1,2 @@
-# playground
-Literally just mucking around
+# Playground
+Just playing around with new things
